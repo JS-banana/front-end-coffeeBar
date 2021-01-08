@@ -26,11 +26,11 @@
 
 ## React
 
-- 函数式组件编写及现实（类似antd的Modal.confirm()）
+- 函数式组件编写及实现（类似`antd`的`Modal.confirm()`）
 
 ## Webpack
 
-- vite了解及使用，react构建
+- `vite`了解及使用，`react`构建
 
 ## Nodejs
 
@@ -40,7 +40,7 @@
 
 ## 前端工程化
 
-- npm包发布及cli工具编写
+- `npm`包发布及`cli`工具编写
 
 ## 网络协议
 
