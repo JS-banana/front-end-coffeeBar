@@ -1,6 +1,6 @@
 # 咖啡吧
 
-[![咖啡吧](https://img.shields.io/badge/CoffeeBar-%E5%92%96%E5%95%A1%E5%90%A7-orange)](#交流)
+[![咖啡吧](https://img.shields.io/badge/CoffeeBar-%E5%92%96%E5%95%A1%E5%90%A7-orange)](#咖啡吧)
 [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-blueviolet)](#交流)
 [![掘金](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/1204720476890477)
 [![stars](https://img.shields.io/github/stars/JS-banana/front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar/stargazers)
