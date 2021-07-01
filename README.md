@@ -12,8 +12,21 @@
 
 ## JavaScript
 
-- 前端八股文
 - 发布订阅模式，原理实现和手写
+- String indexOf实现
+- 前端八股文
+  - 原型链
+  - 继承的实现
+  - 数据类型
+  - var、const、let 对比
+  - new 的过程
+  - this 指向问题
+  - bind 实现方式
+  - 闭包
+  - 事件循环
+  - 类型判断
+  - 手写 Promise
+- web worker
 
 ## TypeScript
 
@@ -23,7 +36,7 @@
 
 ## Vue
 
-- 源码解析
+- 生命周期解析
 
 ## React
 
@@ -31,16 +44,33 @@
 - 常用hook原理及实现
 - 函数式组件编写及实现（类似`antd`的`Modal.confirm()`）
 
-## Webpack
+## 构建工具
 
-- webpack系列文章
-- `vite`了解及使用，`react`构建
+- Webpack
+  - 原理分析系列
+  - loader原理、手写loader
+  - plugin原理、手写plugin
+
+- Rollup
+  - 使用及基本运行原理
+  - 使用rollup发布npm包（以工具库为方向：ts、es、umd、压缩、多入口）
+  - Tree-shaking 分析
+
+- Babel
+
+- Vite
+  - `vite`了解及使用，`react`/`vue`项目搭建构建
+
+- webpack、Rollup等常用库的比较及使用场景
+- 同类型工具比较
 
 ## Nodejs/npm
 
 - 事件循环
 - koa、express
 - `npm`包发布及`cli`工具编写
+
+- 开发一个快速搭建各不同技术栈的项目`node-cli`。
 
 ## 源码分析
 
@@ -56,8 +86,6 @@
 
 - 以 `vue3.0` + `vite2.0` 实现自己的一个相册小项目。
 - 以 `serveless` 为服务发布一个小程序，作为C端项目。
-
-## 面试
 
 ## 交流
 
