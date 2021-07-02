@@ -27,6 +27,7 @@
   - 类型判断
   - 手写 Promise
 - web worker
+- 事件通信（自定义事件、跨组件、eventBus、观察者模式）
 
 ## TypeScript
 
@@ -44,7 +45,7 @@
 - 常用hook原理及实现
 - 函数式组件编写及实现（类似`antd`的`Modal.confirm()`）
 
-## 构建工具
+## 工程化、构建工具
 
 - Webpack
   - 原理分析系列
@@ -57,11 +58,11 @@
   - Tree-shaking 分析
 
 - Babel
+  - 基本运行原理及流程分析
 
 - Vite
   - `vite`了解及使用，`react`/`vue`项目搭建构建
 
-- webpack、Rollup等常用库的比较及使用场景
 - 同类型工具比较
 
 ## Nodejs/npm
@@ -86,6 +87,7 @@
 
 - 以 `vue3.0` + `vite2.0` 实现自己的一个相册小项目。
 - 以 `serveless` 为服务发布一个小程序，作为C端项目。
+- 以nodejs为后端开发服务
 
 ## 交流
 
