@@ -57,7 +57,7 @@
   - 基本运行原理及流程分析
 
 - Vite
-  - `vite`了解及使用，`react`/`vue`项目搭建构建
+  - [vite2.0构建react应用](https://juejin.cn/post/6986169708722520072)
 
 - 同类型工具比较
 
