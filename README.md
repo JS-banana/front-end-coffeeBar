@@ -13,45 +13,26 @@
 
 ## JavaScript
 
-- 发布订阅模式
-- 事件循环
+- 发布订阅模式 / 观察者模式
+- 事件循环、nodejs事件循环
 - 手写 Promise
 - web worker
-- 事件通信（自定义事件、跨组件、eventBus、观察者模式）
+- 事件通信（自定义事件、跨组件、eventBus）
+
 - 通过`canvas`实现流星雨
 
-<details> <summary>JS原生方法手写实现</summary>
+## React / Vue
 
-- String indexOf实现
-
-</details>
-<details> <summary>前端八股文</summary>
-
-  1. 原型链
-  2. 继承的实现
-  3. 数据类型
-  4. var、const、let 对比
-  5. new 的过程
-  6. this 指向问题
-  7. bind 实现方式
-  8. 闭包
-  9. 类型判断
-
-</details>
-
-## Vue
-
+- spa单页面路由实现及原理
+- 响应式原理、双向数据绑定原理
 - 生命周期解析
-
-## React
-
-- 生命周期
 - 常用hook原理及实现
 - 命令式组件实现（类似`antd`的`Modal.confirm()`）
 
 ## 工程化、构建工具
 
 - Webpack
+  - 从零配置一个webpack完整工程化项目（react+ts方向）
   - 原理分析系列
   - loader原理、手写loader
   - plugin原理、手写plugin
@@ -67,11 +48,8 @@
 - Vite
   - [vite2.0构建react应用](https://juejin.cn/post/6986169708722520072)
 
-- 同类型工具比较
-
 ## Nodejs/npm
 
-- 事件循环
 - `koa`、`express`
 - `npm`包发布及`cli`工具编写
 - 开发一个快速搭建各不同技术栈的项目`node-cli`。
