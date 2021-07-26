@@ -13,23 +13,31 @@
 
 ## JavaScript
 
-- 发布订阅模式，原理实现和手写
-- String indexOf实现
-- 前端八股文
-  - 原型链
-  - 继承的实现
-  - 数据类型
-  - var、const、let 对比
-  - new 的过程
-  - this 指向问题
-  - bind 实现方式
-  - 闭包
-  - 事件循环
-  - 类型判断
-  - 手写 Promise
+- 发布订阅模式
+- 事件循环
+- 手写 Promise
 - web worker
 - 事件通信（自定义事件、跨组件、eventBus、观察者模式）
 - 通过`canvas`实现流星雨
+
+<details> <summary>JS原生方法手写实现</summary>
+
+- String indexOf实现
+
+</details>
+<details> <summary>前端八股文</summary>
+
+  1. 原型链
+  2. 继承的实现
+  3. 数据类型
+  4. var、const、let 对比
+  5. new 的过程
+  6. this 指向问题
+  7. bind 实现方式
+  8. 闭包
+  9. 类型判断
+
+</details>
 
 ## Vue
 
