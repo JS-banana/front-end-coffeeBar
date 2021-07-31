@@ -13,7 +13,7 @@
 
 ## JavaScript
 
-- 发布订阅模式 / 观察者模式
+- [发布订阅模式 vs 观察者模式](https://juejin.cn/post/6990952531761299487/)
 - 事件循环、nodejs事件循环
 - 手写 Promise
 - web worker
