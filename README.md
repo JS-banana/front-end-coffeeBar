@@ -46,6 +46,8 @@
 - Vite
   - [vite2.0构建react应用](https://juejin.cn/post/6986169708722520072)
 
+- 学会写测试，尝试测试驱动开发
+
 ## Nodejs/npm
 
 - `koa`、`express`
