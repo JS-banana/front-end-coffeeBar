@@ -31,7 +31,7 @@
 ## 工程化、构建工具
 
 - Webpack
-  - 从零配置一个webpack完整工程化项目（react+ts方向）
+  - [配置一个webpack标准化化项目（react+ts方向）](https://juejin.cn/post/7006952872894005255/)
   - 原理分析系列
   - loader原理、手写loader
   - plugin原理、手写plugin
@@ -73,7 +73,7 @@
 ## 小计划 / 想法 / 尝新
 
 - 通过`canvas`实现流星雨
-- 自动化获取最新博客文章并同步到GitHub首页。（`.xml`文件研究）
+- [自动化获取最新博客文章并同步到GitHub首页。（`.xml`文件研究）](https://ssscode.com/pages/7722fd/)
 
 ## 项目
 
