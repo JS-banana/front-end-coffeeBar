@@ -95,12 +95,12 @@
 
 也欢迎关注我的公众号或者加我微信一起交流，尝鲜咖啡~ :sparkles:
 
-<table width="800px">
+<table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       <img height="120" alt="公众号：前端小帅" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <img height="120" alt="微信：sunsscode" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/1.jpg" />
     </td>
   </tr>
