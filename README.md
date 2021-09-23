@@ -10,25 +10,25 @@
 
 :coffee: 前端咖啡馆：前端知识体系内容输出，不定时更新前端内容~
 
-> Tip：没有链接的正在计划中...
+> My-Plans：[正在计划中...](https://github.com/JS-banana/plans)
 
 ## 前端
 
 - [发布订阅模式 vs 观察者模式](https://juejin.cn/post/6990952531761299487/)
-- [事件通信（自定义事件、跨组件、eventBus）](https://juejin.cn/post/7008531533841563655)
+- [事件通信（自定义事件CustomEvent、EventBus）](https://juejin.cn/post/7008531533841563655)
 - [zustand状态管理器](https://juejin.cn/post/6970951346816188430)
 - [配置一个webpack标准化化项目（react+ts方向）](https://juejin.cn/post/7006952872894005255)
 - [vite2.0构建react应用](https://juejin.cn/post/6986169708722520072)
 
 ## 服务
 
-- [自动化获取最新博客文章并同步到GitHub首页。（`.xml`文件研究）](https://juejin.cn/post/7008529255252361229)
+- [自动化获取最新博客文章并同步到GitHub首页（`.xml`文件研究）](https://juejin.cn/post/7008529255252361229)
 
 ## 交流
 
 如有指正，欢迎提交 [:bug:issues](https://github.com/JS-banana/front-end-coffeeBar/issues)，
 
-也欢迎关注我的公众号或者加我微信一起交流，尝鲜咖啡~ :sparkles:
+也欢迎关注我的公众号或者加我微信`sunsscode`一起交流，尝鲜咖啡~ :sparkles:
 
 <table>
   <tr>
