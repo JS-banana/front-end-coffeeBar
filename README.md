@@ -1,4 +1,4 @@
-# 咖啡吧
+# 前端咖啡馆
 
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar)
 [![咖啡吧](https://img.shields.io/badge/CoffeeBar-%E5%92%96%E5%95%A1%E5%90%A7-orange)](#咖啡吧)
@@ -8,7 +8,7 @@
 [![stars](https://img.shields.io/github/stars/JS-banana/front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar/stargazers)
 [![issues](https://img.shields.io/github/issues/JS-banana/front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar/issues)
 
-:coffee: 前端咖啡馆：前端知识体系内容输出，不定时更新前端内容~
+:coffee: 前端知识体系内容输出，不定时更新前端内容~
 
 > My-Plans：[正在计划中...](https://github.com/JS-banana/plans)
 
@@ -28,7 +28,7 @@
 
 如有指正，欢迎提交 [:bug:issues](https://github.com/JS-banana/front-end-coffeeBar/issues)，
 
-也欢迎关注我的公众号或者加我微信`sunsscode`一起交流，尝鲜咖啡~ :sparkles:
+也欢迎关注我的公众号或者加我微信**sunsscode**一起交流，尝鲜咖啡~ :sparkles:
 
 <table>
   <tr>
