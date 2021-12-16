@@ -19,6 +19,7 @@
 - [zustand状态管理器](https://juejin.cn/post/6970951346816188430)
 - [配置一个webpack标准化化项目（react+ts方向）](https://juejin.cn/post/7006952872894005255)
 - [vite2.0构建react应用](https://juejin.cn/post/6986169708722520072)
+- [vite + vue3 + setup + pinia + ts 项目实战](https://juejin.cn/post/7041188884864040991)
 
 ## 服务
 
