@@ -12,7 +12,7 @@
 
 > My-Plans：[正在计划中...](https://github.com/JS-banana/plans)
 
-## 前端
+## ✨前端
 
 - [发布订阅模式 vs 观察者模式](https://juejin.cn/post/6990952531761299487/)
 - [事件通信（自定义事件CustomEvent、EventBus）](https://juejin.cn/post/7008531533841563655)
@@ -22,12 +22,18 @@
 - [vite + vue3 + setup + pinia + ts 项目实战](https://juejin.cn/post/7041188884864040991)
 - [vite + vue3 + ts 使用总结](https://juejin.cn/post/7051826951463370760)
 
-## 服务
+## 🎉服务
 
 - [自动化获取最新博客文章并同步到GitHub首页（`.xml`文件研究）](https://juejin.cn/post/7008529255252361229)
 - [😜微信每天自动给女[男]朋友发早安和土味情话](https://juejin.cn/post/7054013026801811470)
 
-## 交流
+## 📗看书
+
+- [《React技术揭秘》](https://react.iamkasong.com/) `100%`
+- [《JavaScript高级程序设计》] `50%`
+- [《学习JavaScript数据结构与算法》] `50%`
+
+## 🙌交流
 
 如有指正，欢迎提交 [:bug:issues](https://github.com/JS-banana/front-end-coffeeBar/issues)，
 
