@@ -29,9 +29,12 @@
 
 ## 📗看书
 
-- [《React技术揭秘》](https://react.iamkasong.com/) `100%`
-- 《JavaScript高级程序设计》 `50%`
-- 《学习JavaScript数据结构与算法》 `50%`
+- 《JavaScript高级程序设计》
+- 《学习JavaScript数据结构与算法》
+- 《React技术揭秘》
+- 《图解React原理》
+- 《图解网络-小林coding》
+- 《深入理解ES6》
 
 ## 🙌交流
 
