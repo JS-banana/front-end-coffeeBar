@@ -23,6 +23,7 @@
 - [vite + vue3 + ts 使用总结](https://juejin.cn/post/7051826951463370760)
 - [彻底搞懂JS类型、类型判断、类型转换](https://juejin.cn/post/7092225590102589470)
 - [Koa之洋葱模型分析](https://juejin.cn/post/7095566716347875336)
+- [性能爆表的SolidJS](https://juejin.cn/post/7140643826162466853)
 - [【前端组件化】系列文章第一篇——方案探究](https://juejin.cn/post/7139513166613970958)
 - [基于富文本编辑器实现类似VsCode代码提示的$关键字智能匹配功能](https://juejin.cn/post/7290163879287963685)
 
