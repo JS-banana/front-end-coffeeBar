@@ -4,7 +4,7 @@
 [![咖啡吧](https://img.shields.io/badge/CoffeeBar-%E5%92%96%E5%95%A1%E5%90%A7-orange)](#咖啡吧)
 [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-blueviolet)](#交流)
 [![掘金](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/1204720476890477)
-[![博客](https://img.shields.io/badge/ssscode-%E5%8D%9A%E5%AE%A2-brightgreen)](https://ssscode.com/)
+[![博客](https://img.shields.io/badge/ssscode-%E5%8D%9A%E5%AE%A2-brightgreen)](https://js-banana.github.io/blog)
 [![stars](https://img.shields.io/github/stars/JS-banana/front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar/stargazers)
 [![issues](https://img.shields.io/github/issues/JS-banana/front-end-coffeeBar)](https://github.com/JS-banana/front-end-coffeeBar/issues)
 
@@ -23,6 +23,7 @@
 - [vite + vue3 + ts 使用总结](https://juejin.cn/post/7051826951463370760)
 - [彻底搞懂JS类型、类型判断、类型转换](https://juejin.cn/post/7092225590102589470)
 - [Koa之洋葱模型分析](https://juejin.cn/post/7095566716347875336)
+- [基于富文本编辑器实现类似VsCode代码提示的$关键字智能匹配功能](https://juejin.cn/post/7290163879287963685)
 
 ## 🎉服务
 
