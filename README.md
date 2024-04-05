@@ -32,6 +32,12 @@
 - [从宏观层面理解——浏览器中JavaScript的运行机制](https://juejin.cn/post/7223339726140260410)
 - [基于富文本编辑器实现类似VsCode代码提示的$关键字智能匹配功能](https://juejin.cn/post/7290163879287963685)
 - [虚拟列表入门篇——3分钟带你快速实现一个高性能列表组件](https://juejin.cn/post/7293567405152845876)
+- [JavaScript进阶——map与reduce的前世今生😋](https://juejin.cn/post/7349650519809736714)
+- [面试官：说说闭包吧。我：那还要从执行上下文说起](https://juejin.cn/post/7347956542308499468)
+- [面试官：说说闭包吧。我：那还要从作用域说起](https://juejin.cn/post/7348647534393131062)
+- [面试官：说说 new 的执行过程](https://juejin.cn/post/7350118996438892582)
+- [面试官：从输入 URL 到页面加载完成发生了什么？](https://juejin.cn/post/7350535815132741669)
+- [面试官：说说call、apply、bind是如何改变this的](https://juejin.cn/post/7351321275975974939)
 
 ## 🎉服务
 
@@ -46,6 +52,8 @@
 - 《图解React原理》
 - 《图解网络-小林coding》
 - 《深入理解ES6》
+- 《Hello 算法》
+- 《Vue.js 设计与实现》
 
 ## 🙌交流
 
